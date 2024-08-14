@@ -1,0 +1,12 @@
+<users>
+    <user>
+        <name>Tim</name>
+        <position>Software developer</position>
+        <status>On holiday</status>
+    </user>
+    <user>
+        <name>Dylan</name>
+        <position>Software developer</position>
+        <status>On holiday</status>
+    </user>
+</users>
