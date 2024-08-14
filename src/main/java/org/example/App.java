@@ -8,6 +8,11 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        // begint bij static parent
+        new LoadingClassExample();
+        System.out.println("***********");
+        // tweede keer niet static laden
+        new LoadingClassExample();
+
     }
 }
